@@ -1,2 +1,2 @@
 # nanoreve
-Scrits and tools to model, visualize and interact with nano-objects using VR
+Scripts and tools to model, visualize and interact with nano-objects using VR
